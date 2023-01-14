@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Inelec Water Pump</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sign_in_account">Sign in to your</string>
+    <string name="register_text"><u>Register Now</u></string>
+    <string name="welcome">Welcome</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="todo">TODO</string>
+    <string name="paired_devices">Paired devices</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="ok">OK</string>
+    <string name="motor_1">Motor 1</string>
+    <string name="motor_2">Motor 2</string>
+    <string name="motor_3">Motor 3</string>
+    <string name="motor_4">Motor 4</string>
+    <string name="start_time">Start time</string>
+    <string name="stop_time">Stop time</string>
+    <string name="update">Update</string>
+    <string name="done">Done</string>
+    <string name="m">Motor 1</string>
+    <string name="will_be_turned_on">will be turned on from : </string>
+    <string name="on">On: </string>
+    <string name="to"> to </string>
+    <string name="cancel">Cancel</string>
+    <string name="all_motors_are_off">All motors are off</string>
+    <string name="all_motors_are_on">All motors are on</string>
+    <string name="motor"> Motor </string>
+    <string name="are_on"> are on</string>
+    <string name="State">State</string>
+    <string name="connect_first">Connect your device first!</string>
+    <string name="cnnected_to">Connected to </string>
+    <string name="press_to_exit">press to exit!</string>
+    <string name="device_fails_to_connect">Device fails to connect</string>
+    <string name="try_again">try again!</string>
+    <string name="update_successfully">Updated successfully</string>
+    <string name="warning">Warning</string>
+    <string name="manual_mode">Manual mode, you cant use the App</string>
+    <string name="app_enabled">App has been enabled</string>
+    <string name="you_can_use_app">You can use the app</string>
+    <string name="updating_data">Updating data..</string>
+    <string name="please_wait">Please wait!</string>
+    <string name="all_motors_are_turned_on">All motors are turned on</string>
+    <string name="all_motors_are_turned_off">All motors are turned off</string>
+    <string name="are_turned_on">\" are turned on\"</string>
+    <string name="s">Saturday</string>
+</resources>
